@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Benvenuto nel mio Profilo GitHub!
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311&theme=nightowl)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311)
 
 
 
