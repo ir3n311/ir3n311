@@ -1,6 +1,13 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ir3n311&show_icons=true&theme=nightowl)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ir3n311&theme=nightowl" alt="GitHub Streak" /></a>
+# Benvenuto nel mio Profilo GitHub!
+
+![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ir3n311&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ir3n311&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311)
+
+
+
+
 
 <!--
 **ir3n311/ir3n311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
