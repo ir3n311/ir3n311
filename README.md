@@ -1,9 +1,5 @@
 ## Hi there 👋
 # Benvenuto nel mio Profilo GitHub!
-
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ir3n311&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ir3n311&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311)
 
 
