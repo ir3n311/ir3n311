@@ -1,6 +1,8 @@
 ## Hi there 👋
 # Benvenuto nel mio Profilo GitHub!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311)
+![](https://profile-counter.glitch.me/ir3n311/count.svg)
+
 
 
 
