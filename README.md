@@ -20,11 +20,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ir3n311)](https://git.io/streak-stats)
 
 ---
 
@@ -40,7 +35,6 @@
 
 ---
 
-## 👁️‍🗨️ Visualizzazioni profilo
 
 ![Profile views](https://komarev.com/ghpvc/?username=ir3n311&color=blue)
 
