@@ -1,11 +1,21 @@
 ## 👋 Hi there
-# 👩‍💻 Benvenuto nel mio Profilo GitHub!
+# 👩‍💻 Welcome to my GitHub profile!
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Tecnologie principali
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ir3n311&theme=tokyonight)](https://git.io/streak-stats)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TSED](https://img.shields.io/badge/Ts.ED-DD0031?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -18,12 +28,6 @@
 ## 🏆 GitHub Trofei
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ir3n311&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🛠️ Tecnologie principali
-
-![TypeScript](https://img.shields.io/badge/typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
